@@ -1,0 +1,16 @@
+C(Down Smash): 524
+C#: 551
+D(Down): 581
+D#: 621
+E(Left): 651
+F(Right): 691
+F(Up)#: 732
+G(Attack): 777
+G#(Up Smash): 815
+A(Special): 872
+A#(Right Smash)#: 925
+B(Left Smash): 971
+C(Jump): 1033
+C#: 1095
+D(Up B): 1154
+
